@@ -3,8 +3,16 @@ html{
   color: white;
 }
 #tab{
-  margin-left: 15vw;
+  margin-left: 3vw;
 }
-#heading{
+.heading{
   text-align: center;
+  border: 2.5vh solid black;
+
+}
+#headingtable{
+  background-color: black;
+}
+h5{
+  font-size: 2.2vh;
 }
