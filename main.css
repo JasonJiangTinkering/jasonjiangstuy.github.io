@@ -2,6 +2,9 @@ html{
   background-color: black;
   color: white;
 }
-#{
+#tab{
   margin-left: 15vw;
+}
+#heading{
+  text-align: center;
 }
