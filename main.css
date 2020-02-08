@@ -1,13 +1,17 @@
 html{
-  background-color: black;
+  background-color: blue;
   color: white;
   margin-left: 10vh;
   margin-right: 10vh;
-  margin-top: 5vh;
+  margin-top: 2vh;
   margin-bottom: auto;
   font-size: 2vh
 }
 
+#maindiv{
+  text-align: center;
+  background-color: black
+}
 #tab{
   margin-left: 3vw;
 }
@@ -19,8 +23,10 @@ html{
 
 }
 #headingtable{
-  background-color: black ;
+  background-color: black;
 }
 h6{
-  font-size: 2.2vh;
+  font-size: 2.1vh;
+  border-top: 0vh;
+  border-bottom: 0vh;
 }
