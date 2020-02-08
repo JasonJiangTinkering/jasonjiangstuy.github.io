@@ -1,13 +1,21 @@
 html{
   background-color: black;
   color: white;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  margin-top: 5vh;
+  margin-bottom: auto;
+  font-size: 2vh
 }
+
 #tab{
   margin-left: 3vw;
 }
+
 .heading{
   text-align: center;
-  border: 2.5vh solid black;
+  border-left: 1.2vh solid black;
+  border-right: 1.2vh solid black;
 
 }
 #headingtable{
